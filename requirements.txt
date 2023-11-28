@@ -1,3 +1,6 @@
 django
 djangorestframework
 python-decouple
+black
+pyotp
+djangorestframework-simplejwt==5.2.2
